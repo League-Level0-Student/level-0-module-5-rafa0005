@@ -33,10 +33,10 @@ public class IntroToMethods {
 		System.out.println(output2);
 
 		// Method3
-		method3("Method3");
+		method3("HEY!");
 		
 		// Method4
-		String output4 = method4("Method4");
+		String output4 = method4("Method10");
 		System.out.println(output4);
 		
 		// Method5
@@ -52,7 +52,7 @@ public class IntroToMethods {
 	}
 
 	public static void method3(String message) {
-		System.out.println("Method3");
+		System.out.println(message);
 	}
 
 	public static String method4(String message) {
