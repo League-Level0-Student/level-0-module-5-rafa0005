@@ -14,14 +14,19 @@ public class Calculator {
 				JOptionPane.INFORMATION_MESSAGE, null, new String[] { "divide", "multiply", "subtract", "add" }, null);
 
 		// 3) Call the correct method depending on what option the user chooses
-		
+		if(task = 0) {
+			
+		}
+		if(task = 1) {
+			
+		}
 		// 4) Call the result() method and put the answer in a pop-up
 	}
 	
 	// 1) Make 4 static methods (add, subtract, multiply, divide)
 	//		They should each take 2 numbers as parameters
 	//		and return the answer.
-	 
+	 	
 	
 	// 2) Make a static method called " result" that takes a number
 	//		as a parameter and returns the number in a string

@@ -35,7 +35,7 @@ public class Obedientrobot {
 		for(int i = 200; i > 0; i-=10) {
 			drawTriangle(rob, i);
 		drawSquare(rob, i);
-		drawCircle(rob, i / 5);
+		drawCircle(rob, i / 10);
 		}
 		rob.hide();
 	}
